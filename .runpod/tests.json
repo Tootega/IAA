@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "fine_tune_test",
+      "input": {
+        "model": "tinyllama",
+        "dataset": "small.json"
+      },
+      "timeout": 300
+    }
+  ]
+}
