@@ -2,7 +2,7 @@
   "title": "IAA",
   "description": "An example description",
   "type": "serverless",
-  "category": "audio",
+  "category": "language",
   "iconUrl": "https://example.com/icon.png",
   "config": {
     "runsOn": "GPU",
