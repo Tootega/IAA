@@ -1,0 +1,11 @@
+{
+  "title": "IAA",
+  "description": "Fine-tuning de LLM com LoRA, quantização 4bit e suporte a API.",
+  "type": "serverless",
+  "category": "language",
+  "config": {
+    "runtime": "python3.10",
+    "containerDiskInGB": 20,
+    "presets": ["A6000", "A100", "L40"]
+  }
+}
